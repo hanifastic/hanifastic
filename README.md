@@ -1,3 +1,5 @@
+[![hsisman's 42 stats](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/hsisman)
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanifastic&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=hanifastic&theme=tokyonight" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
